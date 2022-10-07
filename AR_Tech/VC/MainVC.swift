@@ -31,20 +31,21 @@ class MainVC: UIViewController {
     func handleTap(recognizer:UITapGestureRecognizer){
         
         let location = recognizer.location(in: arView)
-        
+
         let results = arView.raycast(from: location, allowing: .estimatedPlane, alignment: .horizontal)
-        
+
         if let firstResult = results.first {
-            
+
             let anchor = ARAnchor(name: self.selectedModel, transform: firstResult.worldTransform) // selectedModel
-            
+
             arView.session.add(anchor: anchor)
-            
+
             self.showToast(message: "You Add a New Object in your Place")
 
         }else{
             self.showToast(message: "Placement failed - coudn't find surface")
         }
+        
     }
 
     func setupARView(){
@@ -57,6 +58,8 @@ class MainVC: UIViewController {
         arView.session.run(configuration)
         
     }
+    
+    // Controll
     
     func placeObject(named entityName:String , for anchor: ARAnchor) {
         
