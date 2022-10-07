@@ -9,7 +9,7 @@ Note :
        for easy understand firstly read this file ** once ** 
        & follow steps in new project from this [ReadMe]() file or from this [Video]()
        
-![screen](img.png)
+![screen](img.PNG)
 
 ## Let's Start 
 
