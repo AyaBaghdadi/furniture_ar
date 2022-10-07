@@ -7,7 +7,7 @@
 
 Note : 
        for easy understand firstly read this file ** once ** 
-       & follow steps in new project from this [ReadMe](https://github.com/AyaBaghdadi/furniture_ar/tree/main) file or from this [Video]()
+       & follow steps in new project from this [ReadMe](https://github.com/AyaBaghdadi/furniture_ar) file or from this [Video]()
        
 ![screen](img.PNG)
 
