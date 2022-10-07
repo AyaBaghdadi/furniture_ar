@@ -45,8 +45,8 @@
 		BA64320F28F0324D0028C915 /* ARSessionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARSessionDelegate.swift; sourceTree = "<group>"; };
 		BA64321128F0325D0028C915 /* CollectionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionDelegate.swift; sourceTree = "<group>"; };
 		BA64321628F03D0A0028C915 /* Toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
-		BA64321928F03EC00028C915 /* REAMDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = REAMDE.md; sourceTree = "<group>"; };
-		BA64321A28F0458B0028C915 /* img.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.PNG; sourceTree = "<group>"; };
+		BA64321928F03EC00028C915 /* REAMDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = REAMDE.md; path = ../REAMDE.md; sourceTree = "<group>"; };
+		BA64321A28F0458B0028C915 /* img.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img.PNG; path = ../img.PNG; sourceTree = "<group>"; };
 		BA6A2C4528F02F0F00607350 /* MainCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCell.swift; sourceTree = "<group>"; };
 		BAAAEAB428EF2C7A00DF34E4 /* model_8.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = model_8.usdz; sourceTree = "<group>"; };
 		BAAAEAB528EF2C7A00DF34E4 /* model_5.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = model_5.usdz; sourceTree = "<group>"; };

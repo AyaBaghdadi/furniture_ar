@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AR_Tech/../REAMDE.md">
+   </FileRef>
+   <FileRef
+      location = "group:AR_Tech/../img.PNG">
+   </FileRef>
+   <FileRef
       location = "group:AR_Tech.xcodeproj">
    </FileRef>
    <FileRef
