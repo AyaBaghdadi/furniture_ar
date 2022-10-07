@@ -17,6 +17,7 @@ class MainVC: UIViewController {
     var selectedModel:String! = "model_1"
     
     override func viewDidAppear(_ animated: Bool) {
+        
         super.viewDidAppear(animated)
         
         arView.session.delegate = self
