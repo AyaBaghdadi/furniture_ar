@@ -9,11 +9,16 @@ Note :
        for easy understand firstly read this file ** once ** 
        & follow steps in new project from this [ReadMe](https://github.com/AyaBaghdadi/furniture_ar/tree/main) file or from this [Video]()
        
-![screen](img.png)
+![screen](img.PNG)
 
 ## Let's Start 
 
 1. Create Your Sesign of ViewController incluse it [ ARView ] & connect it.
+
+```
+import RealityKit
+import ARKit
+```
 
 2. Add Your Models Ojects -> i added it with .usdz -> You can download any free models & Try it in this project 
 
