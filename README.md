@@ -9,7 +9,7 @@ Note :
        for easy understand firstly read this file ** once ** 
        & follow steps in new project from this [ReadMe](https://github.com/AyaBaghdadi/furniture_ar/tree/main) file or from this [Video]()
        
-[comment]: <> ![](diagram.png)
+[comment]: < ![](diagram.png) >
 
 ## Let's Start 
 
